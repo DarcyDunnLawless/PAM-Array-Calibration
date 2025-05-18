@@ -8,9 +8,10 @@ This code is not supposed to be a one-click solution for calibrating arrays - yo
 
 The example data is provided purely to show how the code works, and is not suitable for use with any L11-5v array other than the specific unit measured in Oxford.
 
-## Installing and Running
+## Installation
 If you're not familiar with git & github, just download this repository as a .zip file (Code > Download ZIP). If you move any of the provided .mat files out of the folder with the main code in it, make sure their new locations are added to the MATLAB path.
 
+## Running the Code
 All of the code is contained in the file `ArrayCalibrationScript.m`. This code is written in sections that you can run one at a time with `ctrl+enter` (`cmd+enter` on mac). Each section ends with a check step that displays the result of what the last bit of code has done, so you can keep track of what it's doing. On your first time through, I recommend leaving `checkSteps` on and running each section one at a time.
 
 ## Files
