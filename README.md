@@ -1,5 +1,5 @@
 # PAM-Array-Calibration
-Example code showing the data processing required to calibrate a Passive Acoustic Mapping (PAM) array with the substitution method described by [Gray &amp; Coussios (2018)] (http://doi.org/10.1109/tuffc.2018.2866171).
+Example code showing the data processing required to calibrate a Passive Acoustic Mapping (PAM) array with the substitution method described by [Gray &amp; Coussios (2018)](http://doi.org/10.1109/tuffc.2018.2866171) .
 
 ## Purpose
 This example code is intended to help first-time experimenters understand the processing required to produce a finished PAM array calibration from raw hydrophone and array signals captured in a substitution experiment. It includes example data captured for a standard L11-5v probe at Oxford University's BUBBL lab.
