@@ -45,4 +45,4 @@ Plane wave sensitivity of the hydrophone used to create the example data.
 Directivity of the hydrophone used to create the example data.
 
 ## Citation
-If you do use this code as a basis for published work, please reference this presentation as the original source: D. M. Dunn-Lawless, C. C. Coussios, M. D. Gray (2025) "Practical considerations in the calibration of array probes for quantitative cavitation imaging: lessons learned from 16 attempts" 188th Meeting of the Acoustical Society of America. (DOI coming soon)
+If you do use this code as a basis for published work, please reference this presentation as the original source: D. M. Dunn-Lawless, C. C. Coussios, M. D. Gray (2025) "Practical considerations in the calibration of array probes for quantitative cavitation imaging: lessons learned from 16 attempts" 188th Meeting of the Acoustical Society of America. DOI: [10.1121/10.0037693](https://doi.org/10.1121/10.0037693)
